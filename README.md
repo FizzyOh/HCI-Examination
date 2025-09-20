@@ -1,5 +1,4 @@
-Justine Ferrer
-# HCI-Examination
+# HCI-Examination Justine Ferrer
 
 Instructions: 
 
